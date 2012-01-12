@@ -1,0 +1,17 @@
+package uj.edu.DoIt;
+
+public class ocena
+{
+	public void get_wartosc()
+	{
+		return ;
+	}
+	public void get_waga()
+	{
+		return ;
+	}
+	public void get_klient()
+	{
+		return ;
+	}
+}
