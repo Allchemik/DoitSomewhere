@@ -1,6 +1,6 @@
 package uj.edu.DoIt;
 
-public class miejsce
+public class Miejsce
 {
 	public void get_komentarz()
 	{

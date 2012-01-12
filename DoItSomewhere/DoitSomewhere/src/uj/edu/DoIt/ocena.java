@@ -1,6 +1,6 @@
 package uj.edu.DoIt;
 
-public class ocena
+public class Ocena
 {
 	public void get_wartosc()
 	{

@@ -1,7 +1,9 @@
 package uj.edu.DoIt;
+
+public class Kryteria
 {
 	public void get_klucz()
-	
+
 	{
 		return ;
 	}
